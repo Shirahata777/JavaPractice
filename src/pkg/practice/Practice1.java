@@ -2,7 +2,7 @@ package pkg.practice;
 
 public class Practice1 {
 
-	public static void Practice() {
+	public static void practice() {
 		String s1 = "我は汝";
 		String s2 = "Persona!";
 		String s3 = "persona!";
