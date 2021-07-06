@@ -2,7 +2,7 @@ package pkg.practice;
 
 public class Practice2 {
 	
-	public static void Practice2() {
+	public static void Practice() {
 		
 		String s ="Java and JavaScript";
 		
