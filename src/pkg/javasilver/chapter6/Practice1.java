@@ -8,7 +8,6 @@ public class Practice1 {
 		
 		pre1.setNum(2021);
 		System.out.println(pre2.getNum());
-		
 	}
 
 }

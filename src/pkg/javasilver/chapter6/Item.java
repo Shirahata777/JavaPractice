@@ -11,5 +11,9 @@ public class Item {
 	public void setNum(int num) {
 		this.num = num;
 	}
+	
+	public void print() {
+		System.out.println("数字は" + num + "です。");
+	}
 
 }
