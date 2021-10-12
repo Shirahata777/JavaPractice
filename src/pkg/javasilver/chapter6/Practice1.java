@@ -1,4 +1,4 @@
-package pkg.javasilver.chapter6_1;
+package pkg.javasilver.chapter6;
 
 public class Practice1 {
 	

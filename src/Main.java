@@ -1,5 +1,5 @@
+import pkg.javasilver.chapter6.Practice1;
 import pkg.practice.*;
-import pkg.javasilver.chapter6_1.Practice1;
 import pkg.practice.chapter1.*;
 import pkg.practice.chapter2.*;
 public class Main {
