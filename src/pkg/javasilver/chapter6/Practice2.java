@@ -2,7 +2,7 @@ package pkg.javasilver.chapter6;
 
 public class Practice2 {
 	
-	public void act() {
+	public static void act() {
 		
 		Item pre1 = new Item();
 
