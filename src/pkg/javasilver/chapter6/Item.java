@@ -16,6 +16,8 @@ public class Item {
 	public void print() {
 		System.out.println("数字は" + num + "です。");
 	}
-
-
+	
+	public int methods(int a, int b) {
+		return a / b;
+	}
 }
