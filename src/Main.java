@@ -4,6 +4,7 @@ import pkg.javasilver.chapter6.Practice3;
 import pkg.javasilver.chapter6.Practice4;
 import pkg.javasilver.chapter6.Practice5;
 import pkg.javasilver.chapter6.Practice6;
+import pkg.javasilver.chapter6.Practice8;
 import pkg.practice.*;
 import pkg.practice.chapter1.*;
 import pkg.practice.chapter2.*;
@@ -24,8 +25,8 @@ public class Main {
 //		Practice3.act();
 //		Practice4.act();
 //		Practice5.act();
-		Practice6.act();
-		
+//		Practice6.act();
+		Practice8.act();
 	}
 
 }
