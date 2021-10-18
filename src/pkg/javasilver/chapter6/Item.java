@@ -20,4 +20,14 @@ public class Item {
 	public int methods(int a, int b) {
 		return a / b;
 	}
+	
+//	コンストラクタではない
+	void Item () {
+		System.out.println("こんにちは！");
+	}
+	
+//	コンストラクタのアクセス修飾子に制限はない
+	protected Item () {
+		System.out.println("こんにちは！");
+	}
 }
