@@ -3,7 +3,7 @@ package pkg.javasilver.chapter6;
 public class Item {
 
 	private int num = 1990;
-	static int num2 = 0; 
+	static int num2 = 0;
 
 	public int getNum() {
 		return num;
