@@ -29,5 +29,9 @@ public class Item {
 //	コンストラクタのアクセス修飾子に制限はない
 	protected Item () {
 		System.out.println("こんにちは！");
+	} 
+	{
+//	初期化子（コンストラクタが実行される前に実行）
+		System.out.println("世界の皆さん！");
 	}
 }
