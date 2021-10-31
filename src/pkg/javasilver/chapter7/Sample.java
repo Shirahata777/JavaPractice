@@ -13,4 +13,9 @@ interface Sample {
 	public static void test2() {
 
 	}
+//	Java.lang.Objectに記載されているメソッドをオーバーライドするとコンパイルエラー
+//	@Override
+//	default String toString() {
+//
+//	}
 }
