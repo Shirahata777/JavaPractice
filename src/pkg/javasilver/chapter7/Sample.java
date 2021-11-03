@@ -7,7 +7,7 @@ interface Sample {
 //		
 //	}
 	default void test1() {
-
+		System.out.println("Hello");
 	}
 
 	public static void test2() {
