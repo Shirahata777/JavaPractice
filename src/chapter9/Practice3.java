@@ -1,4 +1,4 @@
-package pkg.practice.chapter9;
+package chapter9;
 
 import java.util.ArrayList;
 import java.util.Arrays;
