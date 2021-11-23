@@ -3,7 +3,7 @@ package pkg.javasilver.chapter9;
 import java.util.Arrays;
 import java.util.List;
 
-public class Practice13 {
+public class Practice14 {
 	
 	public static void main(String[] arags) {
 //		固定帳の配列（追加・削除できない）
