@@ -1,0 +1,7 @@
+Errorクラスについて
+・実行環境にエラーが発生した場合にスローされる
+・Errorを継承しなければならない
+・throwを宣言する必要はない
+・エラーは例外処理を記述できる
+・主にサブクラスが利用される
+（OutOfMemoryError、NoClassDefFoundError、StackOverflowErrorなど）
