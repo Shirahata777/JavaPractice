@@ -1,1 +1,1 @@
-package pkg.javasilver;
+module javasilver {}
