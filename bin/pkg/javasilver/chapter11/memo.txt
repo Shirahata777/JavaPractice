@@ -1,0 +1,5 @@
+モジュールに含めるファイルのコンパイル
+javac -d mods/sample src/pkg/javasilver/module-info.java src/pkg/javasilver/chapter11/Practice1.java
+
+モジュールの実行
+java --module-path mods -m javasilver/pkg.javasilver.chapter11.Practice1 main
