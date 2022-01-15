@@ -1,1 +1,3 @@
-module javasilver {}
+module javasilver {
+	requires foo;
+}
