@@ -22,6 +22,11 @@ public class Main {
 		Main m = new Main();
 		
 		System.out.println(m.test());
+		
+		TfIdf tfidf = new TfIdf();
+		
+		System.out.println(tfidf.action());
+		
 	}
 	
 	private int test() {
