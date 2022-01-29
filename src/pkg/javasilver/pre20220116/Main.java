@@ -13,6 +13,9 @@ public class Main {
 		Main m = new Main();
 //		コンパイル時に「Main.num = 30」に置き換わる
 		m.num = 30;
+		
+//		staticなメソッドからstaticなメソッドを呼び出せる
+//		staticなメソッドからstaticではないメソッドは呼び出せない
 	}
 
 }
